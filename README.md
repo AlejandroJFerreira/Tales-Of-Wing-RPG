@@ -7,6 +7,7 @@ Tales of Wing is a 2D turn-based RPG built using **JavaScript** and assets edite
 - **Focus Areas:** Game mechanics design, front-end logic, and asset creation.
 
   Planned Private Release Date: 2026
+  
   Planned Steam Release Date: 2027
 
 ## Tech Stack
