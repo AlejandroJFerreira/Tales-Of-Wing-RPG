@@ -4,7 +4,10 @@
 Tales of Wing is a 2D turn-based RPG built using **JavaScript** and assets edited in **Paint.NET**, with cutscenes produced in **DaVinci Resolve**. The game features **30+ hours of gameplay**, a rich world, and custom mechanics for strategic combat.
 
 - **Goal:** Build a fully playable RPG with an expansive world, custom battle system, and immersive progression.  
-- **Focus Areas:** Game mechanics design, front-end logic, and asset creation.  
+- **Focus Areas:** Game mechanics design, front-end logic, and asset creation.
+
+  Planned Private Release Date: 2026
+  Planned Steam Release Date: 2027
 
 ## Tech Stack
 - **Languages:** JavaScript  
