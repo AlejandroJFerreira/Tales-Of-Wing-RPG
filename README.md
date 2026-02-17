@@ -15,11 +15,11 @@ Tales of Wing is a 2D turn-based RPG built using **JavaScript** and assets edite
 - **Tools:** Paint.NET, DaVinci Resolve, RPG Maker MV  
 - **Game Engine:** RPG Maker MV  
 
-## My Contributions
-- Designed and implemented a **custom battle system** with strategic mechanics.  
-- Created **maps, quests, and dynamic events** to support player progression and immersion.  
-- Built and tuned **game mechanics** including characters, items, and progression balance.  
-- Edited visual assets and produced rendered cutscenes to enhance storytelling.  
+## What I Built
+- Designed and implemented a custom battle system with strategic mechanics.
+- Created maps, quests, and dynamic events to support player progression and immersion.
+- Built and tuned game mechanics including characters, items, and progression balance.
+- Edited visual assets and produced rendered cutscenes to enhance storytelling.
 
 ## Challenges Solved
 - Implementing complex **battle mechanics and progression systems** within RPG Maker MV.  
