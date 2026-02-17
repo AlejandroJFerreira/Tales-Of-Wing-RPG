@@ -1,19 +1,35 @@
-Code available upon request.
+# Tales of Wing RPG
 
-Planned Private Release: 2025
-Planned Public Release: To be determined.
+## Overview
+Tales of Wing is a 2D turn-based RPG built using **JavaScript** and assets edited in **Paint.NET**, with cutscenes produced in **DaVinci Resolve**. The game features **30+ hours of gameplay**, a rich world, and custom mechanics for strategic combat.
 
-Game Details:
+Planned Private Release Date: 2026
+Planned Public Release Date: 2027
 
-  An approximately 30-hour turn-based JRPG inspired by industry classics!
-  Take control of Lightwing of Draconia, son of the famed Darkwing of Draconia, 
-  as he ventures across the Continent of Sorralie.
+- **Goal:** Build a fully playable RPG with an expansive world, custom battle system, and immersive progression.  
+- **Focus Areas:** Game mechanics design, front-end logic, and asset creation.  
 
-  Unveil the mysterious Thieves' Guild, quell the tensions rising in the
-  Republic, and defeat the evil Emperor Fraize! Explore the Independent State
-  of Drazar, the Kingdom of Draconia, the Republic of Skead, and the hidden
-  village of Shizan. In addition, traverse 7 major dungeons and slay 13
-  main bosses.
+## Tech Stack
+- **Languages:** JavaScript  
+- **Tools:** Paint.NET, DaVinci Resolve, RPG Maker MV  
+- **Game Engine:** RPG Maker MV  
 
-  With the new 'Unity Strike' mechanic, unleash ferocious team-up attacks 
-  on the enemy to rapidly build up TP.
+## My Contributions
+- Designed and implemented a **custom battle system** with strategic mechanics.  
+- Created **maps, quests, and dynamic events** to support player progression and immersion.  
+- Built and tuned **game mechanics** including characters, items, and progression balance.  
+- Edited visual assets and produced rendered cutscenes to enhance storytelling.  
+
+## Challenges Solved
+- Implementing complex **battle mechanics and progression systems** within RPG Maker MV.  
+- Designing a game world that supports **non-linear quests and player exploration**.  
+- Coordinating multiple aspects (coding, art, cutscenes) to create a cohesive player experience.  
+
+## Project Highlights
+- Demonstrates **full-stack project execution** for a game, from coding to assets.  
+- Shows ability to manage **long-term, multi-component projects** independently.  
+- Highlights **problem-solving, design, and creativity** applied to software projects.  
+
+## Demo
+- Game assets and demos available upon request.  
+- Code is proprietary to RPG Maker MV project files, but technical contributions are summarized here.
